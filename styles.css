@@ -1,0 +1,57 @@
+/*Index*/
+div{
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 10px;   
+}
+.body-index{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: bisque;
+
+}
+.recet-milanesa{
+    background-color: #548CA8;
+}
+.recet-asado{
+    background-color:  #476072;
+}
+.recet-panchos{
+    background-color: #334257;
+}
+.a{
+    font-size: x-large;
+    color: rgb(240, 232, 232);
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+/*milanesa*/
+.body-recetas{
+    width: 1200px;
+    margin:0 auto;
+    background-color: rgb(245, 245, 245);
+}
+h1{
+    text-align: center;
+    padding:15px;
+    background-color: rgb(105, 150, 151);
+}
+h3{
+    color: #eeeeee;
+}
+.div-1{
+    text-align: center;
+    padding: 30px;
+    background-color: #1f2a3a;
+}
+li{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.centrar-imagen{
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
